@@ -1,0 +1,11 @@
+
+name: smilechat
+description: Smilechat app with Android Embedding V2 (Corrected)
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
